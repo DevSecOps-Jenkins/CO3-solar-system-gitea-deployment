@@ -17,7 +17,7 @@ spec:
         app: solar-system
     spec:
       containers:
-      - image: airist/solar-system:5868be0b53270f95f1fca678a7ffbe895dc8ee82
+      - image: airist/solar-system:fb07e283edb56209a92a68fd3d4849b2c9ed580f
         imagePullPolicy: Always
         name: solar-system
         ports:
